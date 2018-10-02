@@ -1,0 +1,372 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>Iglbu</name>
+	<StyleMap id="msn_koiene">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_koiene</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_koiene</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_koiene">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://org.ntnu.no/koiene/ikon/koiene.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_koiene">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://org.ntnu.no/koiene/ikon/koiene.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_bus4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_bus4">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus4">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_parking_lot31">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_parking_lot80</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_parking_lot01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_parking_lot8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_parking_lot50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_parking_lot60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_cycling10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_cycling0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_cycling10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin44</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_cycling10">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cycling.png</href>
+			</Icon>
+			<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+		</IconStyle>
+	</Style>
+	<Style id="sn_parking_lot80">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/parking_lot.png</href>
+			</Icon>
+			<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+		</IconStyle>
+	</Style>
+	<Style id="sh_parking_lot01">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/parking_lot.png</href>
+			</Icon>
+			<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin23">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" xunits="pixels" y="2" yunits="pixels" />
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" xunits="pixels" y="2" yunits="pixels" />
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin44">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" xunits="pixels" y="2" yunits="pixels" />
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_parking_lot50">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/parking_lot.png</href>
+			</Icon>
+			<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+		</IconStyle>
+	</Style>
+	<Style id="sh_parking_lot60">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/parking_lot.png</href>
+			</Icon>
+			<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+		</IconStyle>
+	</Style>
+	<Style id="sn_cycling0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/cycling.png</href>
+			</Icon>
+			<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin13">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" xunits="pixels" y="2" yunits="pixels" />
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Iglbu</name>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>Iglbu</name>
+			<description>&lt;br&gt;
+&lt;a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=iglbu"&gt;
+&lt;img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12"&gt;&amp;nbsp;
+Koiebeskrivelse
+&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=iglbu&amp;amp;l=1"&gt;
+&lt;img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12"&gt;&amp;nbsp;
+Cabin description
+&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>10.09225618685348</longitude>
+				<latitude>62.96137688543322</latitude>
+				<altitude>0</altitude>
+				<heading>-0.8581919406861978</heading>
+				<tilt>0</tilt>
+				<range>1146.488812578068</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_koiene</styleUrl>
+			<Point>
+				<coordinates>10.09027777777778,62.96119444444444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parking summer</name>
+			<LookAt>
+				<longitude>10.12433319069316</longitude>
+				<latitude>62.95247649249779</latitude>
+				<altitude>0</altitude>
+				<heading>-0.8296224377196747</heading>
+				<tilt>0</tilt>
+				<range>176.507565717441</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_parking_lot8</styleUrl>
+			<Point>
+				<coordinates>10.1238194484925,62.95231343158928,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parking winter</name>
+			<LookAt>
+				<longitude>10.17454678319027</longitude>
+				<latitude>62.96382584184017</latitude>
+				<altitude>0</altitude>
+				<heading>-0.7848988940494381</heading>
+				<tilt>0</tilt>
+				<range>205.1788414830907</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_parking_lot31</styleUrl>
+			<Point>
+				<coordinates>10.17400475885722,62.9638328056247,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bus stop</name>
+			<description>&lt;br&gt;
+&lt;a href="http://org.ntnu.no/koiene/koiematrisa.php#C"&gt;
+&lt;img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12"&gt;&amp;nbsp;
+Kollektivtransport
+&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;a href="http://org.ntnu.no/koiene/koiematrisa.php?l=1#C"&gt;
+&lt;img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12"&gt;&amp;nbsp;
+Public transport
+&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>10.18863066253905</longitude>
+				<latitude>62.95131723206313</latitude>
+				<altitude>0</altitude>
+				<heading>-0.7723548460461656</heading>
+				<tilt>0</tilt>
+				<range>238.9731861975606</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_bus4</styleUrl>
+			<Point>
+				<coordinates>10.18885442956967,62.95096813590732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bus stop</name>
+			<description>&lt;br&gt;
+&lt;a href="http://org.ntnu.no/koiene/koiematrisa.php#C"&gt;
+&lt;img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12"&gt;&amp;nbsp;
+Kollektivtransport
+&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;a href="http://org.ntnu.no/koiene/koiematrisa.php?l=1#C"&gt;
+&lt;img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12"&gt;&amp;nbsp;
+Public transport
+&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>10.19119238989182</longitude>
+				<latitude>62.9661508667141</latitude>
+				<altitude>0</altitude>
+				<heading>-0.770072618633359</heading>
+				<tilt>0</tilt>
+				<range>368.5148854261017</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_bus4</styleUrl>
+			<Point>
+				<coordinates>10.19218501122447,62.96629832148706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>End of bike trail</name>
+			<LookAt>
+				<longitude>10.10518156854971</longitude>
+				<latitude>62.95486012795446</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03214616719633578</heading>
+				<tilt>0</tilt>
+				<range>880.340073168995</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_cycling10</styleUrl>
+			<Point>
+				<coordinates>10.10225669100025,62.9538643856188,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Track</name>
+			<styleUrl>#msn_ylw-pushpin23</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					10.18889114733073,62.95098008442488,0 10.18828370149009,62.95096574869761,0 10.18764648393653,62.95100428709656,0 10.18668355510351,62.95133239754917,0 10.18509033587396,62.95212629216021,0 10.18354050341932,62.95303839260336,0 10.18287157421825,62.95371227882907,0 10.18197478084827,62.95412822609895,0 10.18165364792007,62.95422168887095,0 10.18129926165799,62.95421503461679,0 10.18103580074312,62.95413180839459,0 10.1810493638232,62.953907970901,0 10.1816775639944,62.95269663591709,0 10.18181589972476,62.95242450798334,0 10.18174123063464,62.95230462887928,0 10.18154537050152,62.95219650062914,0 10.18114540004812,62.95217390984317,0 10.18079696164622,62.95230515296353,0 10.18043307912637,62.95265637734742,0 10.17989956213759,62.95321383706472,0 10.17923210854264,62.95362039620758,0 10.178765618626,62.9541755780693,0 10.17816878327932,62.95510752111575,0 10.17759251703686,62.95563032484324,0 10.17695008723775,62.95633678777691,0 10.17672672277059,62.95681164569831,0 10.17667628643736,62.95725806686062,0 10.17693650809897,62.95779663522935,0 10.17689911625659,62.95834470494606,0 10.17631790145248,62.95916316633319,0 10.17565610360343,62.9596585055718,0 10.17517031727014,62.95983217532844,0 10.17480619732564,62.9600233501326,0 10.17474213922248,62.96017004117343,0 10.17512118179104,62.96195280304537,0 10.17483182260594,62.96279269562925,0 10.17469644126744,62.96320944862863,0 10.17465646201256,62.96374336262372,0 10.17443866189168,62.96392308943219,0 10.17415092884577,62.96394956282907,0 10.17345157406452,62.96388929280325,0 10.17145115512999,62.96369379124803,0 10.1697906484451,62.96311094306129,0 10.16879547378667,62.96288004703086,0 10.16843316301036,62.96268772946981,0 10.16823563795578,62.96223269439107,0 10.16751189107243,62.96150919915517,0 10.16714386475488,62.96114786861049,0 10.16613350684837,62.96084119442965,0 10.16556011370569,62.96076489348277,0 10.16493531660675,62.96079240712049,0 10.16456814958921,62.96077259913233,0 10.16445058757911,62.96065522944918,0 10.16469965647036,62.96031891199992,0 10.16472276057409,62.96013910377266,0 10.16446844777968,62.96012101846929,0 10.16374920661108,62.96015667868779,0 10.16330035304759,62.96017791059509,0 10.16280501559871,62.96026442281306,0 10.16243524845456,62.96024634800211,0 10.16235687167369,62.96013136413017,0 10.16269918282998,62.95955548257318,0 10.16297323242438,62.95898009525246,0 10.16296795824899,62.95877109259217,0 10.16280392424109,62.95857901296795,0 10.16257249790433,62.95847254199538,0 10.16225583839574,62.95848927632502,0 10.16142112315391,62.95864403365923,0 10.1604848961803,62.95878360953963,0 10.15937906960196,62.95886669049157,0 10.15806086673562,62.95877679997641,0 10.15700414017499,62.95871664183264,0 10.15543255741214,62.95841037706681,0 10.15324672015612,62.9580670604253,0 10.15138902253483,62.95776112149515,0 10.15085284982164,62.95761184314247,0 10.15007962391984,62.95725356183559,0 10.14939796434275,62.95707154795609,0 10.1487068932031,62.95684586912996,0 10.14776089008248,62.95658834541786,0 10.14669223733726,62.95637540025851,0 10.14611963440738,62.95628194543603,0 10.14563583395704,62.95627333964748,0 10.14523263249568,62.9561673095704,0 10.14500178123392,62.95597454483969,0 10.14496130909797,62.95571401417976,0 10.14498963890803,62.95545978485782,0 10.14478312037639,62.95532543100602,0 10.14425502862539,62.9551836165773,0 10.14371388957546,62.95492887023133,0 10.14315122795051,62.95486168914993,0 10.1428230515583,62.95491668415486,0 10.14223841533284,62.95490874452833,0 10.14110076907379,62.95486339491407,0 10.13942218801168,62.95478164300425,0 10.13741813604412,62.95468003500091,0 10.13681236779958,62.954588056403,0 10.13658519220275,62.95441020860565,0 10.13628984770772,62.95394914439377,0 10.13616165319976,62.95376472463869,0 10.13567850716528,62.95357957214999,0 10.1347241015502,62.95335358343949,0 10.13389511712454,62.95330173483148,0 10.13252176532938,62.95337131816724,0 10.13148397136703,62.95345040607241,0 10.13094332156421,62.95346673940549,0 10.13052530844477,62.95340028244892,0 10.13014505840817,62.9532275030874,0 10.12996228888756,62.95293961226649,0 10.12994410680912,62.95259560761258,0 10.12980746893969,62.95232069746889,0 10.12968265303573,62.95216828796772,0 10.1293878831634,62.9520984282183,0 10.12871406918772,62.95207958868545,0 10.1275864413257,62.95195412980068,0 10.12638544202583,62.95178106401205,0 10.12586936052035,62.95169453371725,0 10.12539030657949,62.95174255319215,0 10.12489280792622,62.95195311131075,0 10.12411717282128,62.95219673526474,0 10.123071794836,62.95240536996953,0 10.122534018406,62.95259759368513,0 10.12234736592049,62.95287724494055,0 10.12227016545314,62.95322771028452,0 10.1217736116153,62.95357081984704,0 10.12125628636076,62.95367172766816,0 10.12089066997131,62.95365540918689,0 10.12053497305673,62.95378200434754,0 10.11977749423208,62.95405559437103,0 10.11935336958758,62.95407406351699,0 10.1186838590682,62.95407872552889,0 10.11812338351359,62.95430404674799,0 10.11744736176382,62.95460230647074,0 10.1162049579756,62.95483815682703,0 10.11541087985095,62.95486932127611,0 10.11492211332154,62.95495946912023,0 10.11432307914603,62.95509111677545,0 10.11268065925787,62.95528637939106,0 10.11158163206771,62.95540759003968,0 10.11076640056275,62.95541595979127,0 10.10975769906685,62.95526546086556,0 10.1089515775254,62.95499749789193,0 10.10789669215612,62.9547174022949,0 10.10699238616436,62.95452921635137,0 10.10612946236548,62.95426835505098,0 10.10550230171725,62.95409571537897,0 10.10493737150272,62.95414946516248,0 10.10427748505638,62.95430952604837,0 10.10373891713239,62.95430701443444,0 10.10269427874114,62.95410913826439,0 10.10196964686444,62.95411598609413,0 10.10138939368673,62.9540536203178,0 10.10073480729322,62.95406005580732,0 10.1001562354268,62.9542328922268,0 10.09891342324801,62.95513835819092,0 10.09743642348143,62.95578373982904,0 10.09709734670904,62.95612185867236,0 10.09642768756142,62.95717863373365,0 10.09518929859276,62.95816598592408,0 10.09376918555452,62.95893451552266,0 10.09262163616544,62.95949609277377,0 10.09162204630605,62.96014384597207,0 10.09080763919443,62.96072526914691,0 10.09027571865106,62.96116876716987,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Track</name>
+			<styleUrl>#msn_ylw-pushpin14</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					10.19225476495648,62.96636407548797,0 10.19129832401231,62.96641620023012,0 10.18962735022354,62.96743335259557,0 10.18818457935583,62.96811025063053,0 10.18742837678003,62.96893465820387,0 10.18670058967005,62.969744581895,0 10.18524921518557,62.96938865285543,0 10.182596794783,62.96858674579952,0 10.17984561030108,62.96796266597602,0 10.17807330315156,62.96752150752803,0 10.17779443840936,62.9675991437799,0 10.17740924638168,62.96758649049377,0 10.17607043699485,62.96731707130641,0 10.17431541607981,62.9668748795585,0 10.17298202598696,62.96659270516713,0 10.17208253535984,62.96593535569204,0 10.17147878397769,62.96547837644331,0 10.1705020454235,62.96507630419746,0 10.17025590098957,62.96489930636951,0 10.17031919313042,62.96478692906912,0 10.17047338394682,62.9646915981988,0 10.17112676935785,62.96479033819555,0 10.17192169862262,62.96488953218147,0 10.17259565711724,62.96486000789606,0 10.1731456823761,62.96466248229248,0 10.17352563005689,62.96436867488486,0 10.17408321780712,62.96415105099172,0 10.17444693236143,62.96392784199996,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+	</Document>
+</kml>

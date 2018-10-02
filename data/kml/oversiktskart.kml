@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>NTNUI Koiene</name>
+	<open>1</open>
+	<Style>
+		<ListStyle>
+			<listItemType>checkHideChildren</listItemType>
+			<bgColor>00ffffff</bgColor>
+			<maxSnippetLines>2</maxSnippetLines>
+		</ListStyle>
+	</Style>
+	<Style id="sh_koiene">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://org.ntnu.no/koiene/ikon/koiene.gif</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_koiene0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_koiene1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_koiene</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_koiene1">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://org.ntnu.no/koiene/ikon/koiene.gif</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Flåkoia</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=flaakoia" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=flaakoia&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>10.36541530471555</longitude>
+			<latitude>63.15729450695375</latitude>
+			<altitude>0</altitude>
+			<heading>-0.9877419946008033</heading>
+			<tilt>0</tilt>
+			<range>516.1964947396607</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>10.36538888888889,63.15702777777777,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mevasskoia</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=mevasskoia" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=mevasskoia&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>10.325875</longitude>
+			<latitude>63.589740</latitude>
+			<altitude>0</altitude>
+			<heading>-0.9710952167362317</heading>
+			<tilt>0</tilt>
+			<range>6491.610919174984</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>10.325875,63.589740,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Fosenkoia</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=fosenkoia" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=fosenkoia&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>10.27594133697405</longitude>
+			<latitude>63.55990826712627</latitude>
+			<altitude>0</altitude>
+			<heading>-0.9710952167362317</heading>
+			<tilt>0</tilt>
+			<range>6491.610919174984</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>10.29541666666667,63.56813888888889,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Heinfjordstua</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=heinfjordstua" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=heinfjordstua&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>10.77442211783997</longitude>
+			<latitude>63.324103692763</latitude>
+			<altitude>0</altitude>
+			<heading>-0.5440966379419531</heading>
+			<tilt>0</tilt>
+			<range>3623.132281328082</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>10.75205555555556,63.31491666666667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hognabu</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=hognabu" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=hognabu&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>11.53547541680559</longitude>
+			<latitude>63.10895775476978</latitude>
+			<altitude>0</altitude>
+			<heading>0.05983020809238711</heading>
+			<tilt>0</tilt>
+			<range>529.8546343009692</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>11.5345,63.10875,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Holmsåkoia</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=holmsaakoia" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=holmsaakoia&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>11.64886049783904</longitude>
+			<latitude>63.08610513839451</latitude>
+			<altitude>0</altitude>
+			<heading>0.159683760564276</heading>
+			<tilt>0</tilt>
+			<range>309.1403431989556</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>11.64869444444444,63.08641666666667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Holvassgamma</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=holvassgamma" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=holvassgamma&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>10.37115742052177</longitude>
+			<latitude>63.82745754591441</latitude>
+			<altitude>0</altitude>
+			<heading>-0.9822313664106362</heading>
+			<tilt>0</tilt>
+			<range>193.305953465218</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>10.37133333333333,63.82744444444445,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Iglbu</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=iglbu" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=iglbu&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>10.09225618685348</longitude>
+			<latitude>62.96137688543322</latitude>
+			<altitude>0</altitude>
+			<heading>-0.8581919406861978</heading>
+			<tilt>0</tilt>
+			<range>1146.488812578068</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>10.09027777777778,62.96119444444444,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kamtjønnkoia</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=kamtjonnkoia" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=kamtjonnkoia&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>9.290968841118302</longitude>
+			<latitude>62.7430856505616</latitude>
+			<altitude>0</altitude>
+			<heading>-1.94736333754793</heading>
+			<tilt>0</tilt>
+			<range>397.9259425717572</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>9.291194444444445,62.74316666666667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kråklikåten</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=kraaklikaaten" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=kraaklikaaten&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>10.5873707890618</longitude>
+			<latitude>63.1186990595129</latitude>
+			<altitude>0</altitude>
+			<heading>-0.7876661100254979</heading>
+			<tilt>0</tilt>
+			<range>2450.469091027226</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>10.59166666666667,63.12283333333333,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kåsen</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=kaasen" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=kaasen&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>9.443388888888888</longitude>
+			<latitude>63.12375</latitude>
+			<altitude>0</altitude>
+			<heading>-0.6387637041583334</heading>
+			<tilt>0</tilt>
+			<range>469</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>9.443388888888888,63.12374999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lynhøgen</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=lynhogen" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=lynhogen&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>10.70885668030104</longitude>
+			<latitude>63.21022381269267</latitude>
+			<altitude>0</altitude>
+			<heading>-0.6791975420790015</heading>
+			<tilt>0</tilt>
+			<range>121.6825573877624</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>10.70875,63.21027777777778,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mortenskåten</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=mortenskaaten" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=mortenskaaten&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>10.95746500086881</longitude>
+			<latitude>63.01629057012996</latitude>
+			<altitude>0</altitude>
+			<heading>-0.4565305804207608</heading>
+			<tilt>0</tilt>
+			<range>487.1181870919862</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>10.95894444444444,63.01650000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Nicokoia</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=nicokoia" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=nicokoia&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>10.52631306272723</longitude>
+			<latitude>63.16360274730786</latitude>
+			<altitude>0</altitude>
+			<heading>-0.8384010021878762</heading>
+			<tilt>0</tilt>
+			<range>101.3323136086769</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>10.52636111111111,63.1635,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Rindalsløa</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=rindalsloa" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=rindalsloa&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>9.198495569145658</longitude>
+			<latitude>63.02025781068448</latitude>
+			<altitude>0</altitude>
+			<heading>-2.01917141340922</heading>
+			<tilt>0</tilt>
+			<range>424.7303916510921</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>9.197861111111111,63.01997222222222,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Selbukåten</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=selbukaaten" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=selbukaaten&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>11.02877847140559</longitude>
+			<latitude>63.32898793104991</latitude>
+			<altitude>0</altitude>
+			<heading>-0.3945687066148863</heading>
+			<tilt>0</tilt>
+			<range>488.4825166627289</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>11.02758333333333,63.32852777777778,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Sonvasskoia</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=sonvasskoia" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=sonvasskoia&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>11.41952666349082</longitude>
+			<latitude>63.38979802804018</latitude>
+			<altitude>0</altitude>
+			<heading>-0.04418050409590536</heading>
+			<tilt>0</tilt>
+			<range>550.0157210455111</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>11.41852777777778,63.39030555555556,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Stabburet</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=stabburet" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=stabburet&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>11.72147756576481</longitude>
+			<latitude>63.1418890674373</latitude>
+			<altitude>0</altitude>
+			<heading>0.2266864652952253</heading>
+			<tilt>0</tilt>
+			<range>354.9612935799117</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>11.72236111111111,63.14200000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Stakkslettbua</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=stakkslettbua" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=stakkslettbua&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>9.117282611108159</longitude>
+			<latitude>63.14772005943733</latitude>
+			<altitude>0</altitude>
+			<heading>-2.099030737723707</heading>
+			<tilt>0</tilt>
+			<range>642.4621941604145</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>9.11575,63.14713888888889,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Telin</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=telin" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=telin&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>9.648582900418735</longitude>
+			<latitude>62.86846930736176</latitude>
+			<altitude>0</altitude>
+			<heading>-1.618872299235501</heading>
+			<tilt>0</tilt>
+			<range>9335.025965358478</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>9.661972222222222,62.8761388888889,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Taagaabu</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=taagaabu" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=taagaabu&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>10.60084914534575</longitude>
+			<latitude>62.8244649353124</latitude>
+			<altitude>0</altitude>
+			<heading>-0.7735802753015827</heading>
+			<tilt>0</tilt>
+			<range>2370.745435797759</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>10.60869444444444,62.82191666666667,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Vekvessætra</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=vekvessaetra" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=vekvessaetra&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>9.800861111111113</longitude>
+			<latitude>62.7085</latitude>
+			<altitude>0</altitude>
+			<heading>-0.5130593877676338</heading>
+			<tilt>0</tilt>
+			<range>715</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>9.800861111111113,62.70850000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Øvensenget</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=ovensenget" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=ovensenget&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>11.18793926915244</longitude>
+			<latitude>62.411815916371</latitude>
+			<altitude>0</altitude>
+			<heading>-0.2486739454710005</heading>
+			<tilt>0</tilt>
+			<range>816.2654814144249</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>11.18655555555556,62.41219444444446,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lyngli</name>
+		<description><![CDATA[<br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=lyngli" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12" border="0" alt="">&nbsp;
+Koiebeskrivelse
+</a>
+<br><br>
+<a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=lyngli&amp;l=1" target="_self">
+<img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12" border="0" alt="">&nbsp;
+Cabin description
+</a>]]></description>
+		<LookAt>
+			<longitude>10.52138</longitude>
+			<latitude>62.96657</latitude>
+			<altitude>0</altitude>
+			<heading>-0.2486739454710005</heading>
+			<tilt>0</tilt>
+			<range>500</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_koiene0</styleUrl>
+		<Point>
+			<coordinates>10.52138,62.96657,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

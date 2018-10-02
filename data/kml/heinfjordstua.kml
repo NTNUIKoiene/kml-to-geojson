@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:ns1="http://www.google.com/kml/ext/2.2">
+<Document>
+	<name>Heinfjordstua</name>
+	<StyleMap id="msn_koiene">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_koiene</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_koiene</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_koiene">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://org.ntnu.no/koiene/ikon/koiene.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_koiene">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://org.ntnu.no/koiene/ikon/koiene.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_info-i0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_info-i0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_info-i</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_bus4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin111">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin03</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin48</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_parking_lot211">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_parking_lot41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_parking_lot17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_bus4">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus4">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+		</IconStyle>
+	</Style>
+	<Style id="sn_info-i0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/info-i.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin03">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" xunits="pixels" y="2" yunits="pixels" />
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_parking_lot17">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/parking_lot.png</href>
+			</Icon>
+			<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+		</IconStyle>
+	</Style>
+	<Style id="sn_parking_lot41">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/parking_lot.png</href>
+			</Icon>
+			<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin48">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" xunits="pixels" y="2" yunits="pixels" />
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_info-i">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/info-i.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Heinfjordstua</name>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>Heinfjordstua</name>
+			<description>&lt;br&gt;
+&lt;a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=heinfjordstua"&gt;
+&lt;img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12"&gt;&amp;nbsp;
+Koiebeskrivelse
+&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=heinfjordstua&amp;amp;l=1"&gt;
+&lt;img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12"&gt;&amp;nbsp;
+Cabin description
+&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>10.77442211783997</longitude>
+				<latitude>63.324103692763</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5440966379419531</heading>
+				<tilt>0</tilt>
+				<range>3623.132281328082</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_koiene</styleUrl>
+			<Point>
+				<coordinates>10.75205555555556,63.31491666666667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parking summer/winter</name>
+			<LookAt>
+				<longitude>10.78047450633009</longitude>
+				<latitude>63.32327259517869</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5386880119903297</heading>
+				<tilt>0</tilt>
+				<range>270.700753151578</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_parking_lot211</styleUrl>
+			<Point>
+				<coordinates>10.7797792718503,63.32252285856427,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bus stop</name>
+			<description>&lt;br&gt;
+&lt;a href="http://org.ntnu.no/koiene/koiematrisa.php#C"&gt;
+&lt;img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12"&gt;&amp;nbsp;
+Kollektivtransport
+&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;a href="http://org.ntnu.no/koiene/koiematrisa.php?l=1#C"&gt;
+&lt;img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12"&gt;&amp;nbsp;
+Public transport
+&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>10.80922614862483</longitude>
+				<latitude>63.33127868007869</latitude>
+				<altitude>0</altitude>
+				<heading>-0.51299499539492</heading>
+				<tilt>0</tilt>
+				<range>231.666720129401</range>
+				<ns1:altitudeMode>relativeToSeaFloor</ns1:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_bus4</styleUrl>
+			<Point>
+				<coordinates>10.80842756557173,63.33115395179568,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Track</name>
+			<styleUrl>#msn_ylw-pushpin111</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					10.80841388772128,63.33113662305069,0 10.80897253724568,63.33076279586844,0 10.80993265797716,63.33016954009918,0 10.81132343610328,63.3293507100785,0 10.81126906752294,63.32919448212884,0 10.8078367410211,63.32884248049199,0 10.80661049265077,63.32877078250606,0 10.80532382095054,63.32889119830458,0 10.80409959665634,63.32899527058523,0 10.80267594067002,63.32879075641475,0 10.80163140986659,63.32834606063061,0 10.80106323023614,63.32795576908833,0 10.80101458810608,63.32742634716535,0 10.80120609821683,63.32675629264922,0 10.80059956076044,63.32553711887855,0 10.80004485536874,63.32513393092456,0 10.798639036195,63.32482635638384,0 10.79666501630797,63.32444723944862,0 10.79371601924189,63.32407980281592,0 10.78930225962802,63.32371388422673,0 10.78500406767734,63.32322398004331,0 10.78325195605641,63.32318203332177,0 10.78264359383106,63.32329073227376,0 10.78186979886133,63.32351145034491,0 10.78115744891009,63.32362124637192,0 10.78048336948432,63.32358663325507,0 10.78013738586391,63.32313639677643,0 10.77983753461471,63.32275280475111,0 10.77973617602096,63.3225486820639,0 10.77871827325612,63.32228668070487,0 10.77755046940327,63.32212947440094,0 10.77652861135554,63.32207237059517,0 10.77529372452558,63.32214422345481,0 10.77400364721451,63.32222251834555,0 10.77285841651872,63.32211925953942,0 10.77221340175441,63.32185800801413,0 10.77113655585387,63.32150488756778,0 10.77018638043531,63.32119966466038,0 10.76927762464415,63.32116571841466,0 10.7679192431814,63.32120219251516,0 10.76674422237578,63.3211070803679,0 10.76534153342862,63.32106178094149,0 10.76411833684808,63.32095925031737,0 10.76278474377077,63.32104291419689,0 10.76200325105164,63.32051600576545,0 10.76137927633805,63.32022653653492,0 10.76070225613329,63.32012882443835,0 10.75977073145244,63.3199024260602,0 10.75945142701316,63.31949639134486,0 10.75939851364761,63.31905576057517,0 10.75893985470073,63.31859908217588,0 10.75829634645819,63.31804802879659,0 10.75771763154848,63.31758940518839,0 10.75725826998558,63.31708374984306,0 10.75673896480949,63.31684562780339,0 10.75642068431785,63.31652719613611,0 10.75603173199148,63.31620169022678,0 10.75517417394486,63.31577660406271,0 10.75442280712232,63.31529338381707,0 10.75397255064876,63.31508716035557,0 10.75357300184409,63.31504381937834,0 10.75308370424513,63.31490208268409,0 10.75217528593812,63.31487287150404,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Waste container</name>
+			<description>A relaxing weekend might cause some waste, 
+at the Sneisen crossing a container is based.
+Please keep the neighbours happy - use this one for free,
+it's for everyones best, we're sure you'll agree.</description>
+			<LookAt>
+				<longitude>10.81078830638015</longitude>
+				<latitude>63.33167448302426</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5115988819131733</heading>
+				<tilt>0</tilt>
+				<range>1051.428522985433</range>
+				<ns1:altitudeMode>relativeToSeaFloor</ns1:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_info-i0</styleUrl>
+			<Point>
+				<ns1:altitudeMode>clampToSeaFloor</ns1:altitudeMode>
+				<coordinates>10.80816888269143,63.33137017953375,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+	</Document>
+</kml>

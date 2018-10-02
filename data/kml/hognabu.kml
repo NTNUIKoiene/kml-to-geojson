@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>Hognabu</name>
+	<StyleMap id="msn_koiene">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_koiene</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_koiene</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_koiene">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://org.ntnu.no/koiene/ikon/koiene.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_koiene">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://org.ntnu.no/koiene/ikon/koiene.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_bus4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_bus4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_bus4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_bus4">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+		</IconStyle>
+	</Style>
+	<Style id="sn_bus4">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/bus.png</href>
+			</Icon>
+			<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_parking_lot0100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_parking_lot30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_parking_lot10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin450</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin450">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" xunits="pixels" y="2" yunits="pixels" />
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_parking_lot30">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/parking_lot.png</href>
+			</Icon>
+			<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin24">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" xunits="pixels" y="2" yunits="pixels" />
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" xunits="pixels" y="2" yunits="pixels" />
+		</IconStyle>
+		<LineStyle>
+			<color>54ff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin42">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" xunits="pixels" y="2" yunits="pixels" />
+		</IconStyle>
+		<LineStyle>
+			<color>54ff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_parking_lot10">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/parking_lot.png</href>
+			</Icon>
+			<hotSpot x="0.5" xunits="fraction" y="0" yunits="fraction" />
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Hognabu</name>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>Hognabu</name>
+			<description>&lt;br&gt;
+&lt;a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=hognabu"&gt;
+&lt;img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12"&gt;&amp;nbsp;
+Koiebeskrivelse
+&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;a href="http://org.ntnu.no/koiene/koiene/koiene.php?k=hognabu&amp;amp;l=1"&gt;
+&lt;img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12"&gt;&amp;nbsp;
+Cabin description
+&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>11.53547541680559</longitude>
+				<latitude>63.10895775476978</latitude>
+				<altitude>0</altitude>
+				<heading>0.05983020809238711</heading>
+				<tilt>0</tilt>
+				<range>529.8546343009692</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_koiene</styleUrl>
+			<Point>
+				<coordinates>11.5345,63.10875,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parking summer/winter</name>
+			<LookAt>
+				<longitude>11.52473247700308</longitude>
+				<latitude>63.05858308300646</latitude>
+				<altitude>0</altitude>
+				<heading>0.05025145756233827</heading>
+				<tilt>0</tilt>
+				<range>439.1395648275703</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_parking_lot0100</styleUrl>
+			<Point>
+				<coordinates>11.52667255606965,63.05836653045626,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bus stop</name>
+			<description>&lt;br&gt;
+&lt;a href="http://org.ntnu.no/koiene/koiematrisa.php#C"&gt;
+&lt;img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12"&gt;&amp;nbsp;
+Kollektivtransport
+&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;a href="http://org.ntnu.no/koiene/koiematrisa.php?l=1#C"&gt;
+&lt;img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12"&gt;&amp;nbsp;
+Public transport
+&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>11.47913506646892</longitude>
+				<latitude>63.05628536207607</latitude>
+				<altitude>0</altitude>
+				<heading>0.009615514252467431</heading>
+				<tilt>0</tilt>
+				<range>2483.49111175205</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_bus4</styleUrl>
+			<Point>
+				<coordinates>11.4714896973282,63.05472920790638,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bus stop</name>
+			<description>&lt;br&gt;
+&lt;a href="http://org.ntnu.no/koiene/koiematrisa.php#C"&gt;
+&lt;img src="http://org.ntnu.no/koiene/ikon/norsk.jpg" width="18" height="12"&gt;&amp;nbsp;
+Kollektivtransport
+&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;a href="http://org.ntnu.no/koiene/koiematrisa.php?l=1#C"&gt;
+&lt;img src="http://org.ntnu.no/koiene/ikon/engelsk.gif" width="18" height="12"&gt;&amp;nbsp;
+Public transport
+&lt;/a&gt;</description>
+			<LookAt>
+				<longitude>11.52473247700308</longitude>
+				<latitude>63.05858308300646</latitude>
+				<altitude>0</altitude>
+				<heading>0.05025145756233827</heading>
+				<tilt>0</tilt>
+				<range>439.1395648275703</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_bus4</styleUrl>
+			<Point>
+				<coordinates>11.52257646067863,63.05814025636084,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Track</name>
+			<styleUrl>#msn_ylw-pushpin13</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					11.52257006890788,63.05813679470643,0 11.52473588639717,63.05924635455411,0 11.52621832279611,63.05974668437056,0 11.52657095311462,63.05995604867312,0 11.52628466679569,63.06110315388239,0 11.52660842590238,63.06164216640833,0 11.52758908215756,63.06263083438383,0 11.52793709429581,63.0636004079097,0 11.52790691292439,63.06492085532133,0 11.5282111131642,63.06595229627941,0 11.52885258246192,63.06663338695996,0 11.5308866143696,63.06787301524844,0 11.53224567388326,63.06834517016193,0 11.53027487564461,63.0698736542197,0 11.52861369449073,63.07132663795498,0 11.52857895794389,63.07169736858994,0 11.52816274667634,63.07206547942262,0 11.52740051775053,63.07247525241425,0 11.52676702872827,63.0730457041658,0 11.52633559452489,63.07365237163798,0 11.52490346806901,63.07434473196599,0 11.52465931676472,63.07455599507769,0 11.52453033331551,63.07516041323712,0 11.52382326844103,63.07590204889841,0 11.52306995806213,63.07640688880106,0 11.52298343674828,63.07666951340355,0 11.52310335208791,63.07696448764779,0 11.52575239982625,63.07904280372364,0 11.52599462299932,63.07927798269075,0 11.52595446365119,63.08121871941466,0 11.52503009521967,63.0825204347417,0 11.52402390125089,63.08370769131003,0 11.52391516092441,63.08391789312048,0 11.52418326693263,63.08413328379901,0 11.52553177872244,63.08496565125977,0 11.52592736079194,63.08557519734734,0 11.52649731843768,63.0861685724532,0 11.52706281760723,63.08669125418432,0 11.52740466687527,63.08740375612357,0 11.52724790379293,63.08868798132028,0 11.52699286409345,63.09000419840893,0 11.52626209797457,63.09110371454533,0 11.52543748525111,63.09185900897523,0 11.52549000493226,63.09223111756467,0 11.52529344071254,63.09281039691314,0 11.52537815582017,63.09321465540579,0 11.53415010698376,63.10261636239489,0 11.534809394045,63.10345979106612,0 11.53477041507326,63.10354183680118,0 11.53466199530496,63.10629517093921,0 11.53442370519797,63.1070901792148,0 11.5345576306307,63.10787348171557,0 11.53450205993493,63.10874693643023,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Track</name>
+			<styleUrl>#msn_ylw-pushpin32</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					11.47144414224761,63.054968657448,0 11.46869827063151,63.05714937714794,0 11.46607878073179,63.05792363790349,0 11.46452764662504,63.05958478595296,0 11.46284374596241,63.06053900380379,0 11.46322192961152,63.06709626379853,0 11.46501404721734,63.06766252121314,0 11.46520513366388,63.06825527065794,0 11.46367264154223,63.07045495683647,0 11.46423198037415,63.07103368877083,0 11.46528961135539,63.07128451669922,0 11.46778725060279,63.07039724080143,0 11.47099589617842,63.07033649916804,0 11.47295091789042,63.07038941589327,0 11.47682933337096,63.07676332166725,0 11.48310720966649,63.0815407582314,0 11.49085912790267,63.08824185933345,0 11.50026238593817,63.09443503606812,0 11.51055119570649,63.09863948595515,0 11.520372480486,63.1007529721283,0 11.52822430549743,63.10293411755454,0 11.53274591960717,63.1066710667111,0 11.53449972375328,63.10874693439104,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+	</Document>
+</kml>
