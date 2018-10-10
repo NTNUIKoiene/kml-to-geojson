@@ -1,0 +1,390 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          10.36538888888889,
+          63.15702777777777,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=flaakoia\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=flaakoia&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Fl\u00e5koia",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.325875,
+          63.58974,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=mevasskoia\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=mevasskoia&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Mevasskoia",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.29541666666667,
+          63.56813888888889,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=fosenkoia\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=fosenkoia&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Fosenkoia",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.75205555555556,
+          63.31491666666667,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=heinfjordstua\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=heinfjordstua&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Heinfjordstua",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.5345,
+          63.10875,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=hognabu\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=hognabu&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Hognabu",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.64869444444444,
+          63.08641666666667,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=holmsaakoia\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=holmsaakoia&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Holms\u00e5koia",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.37133333333333,
+          63.82744444444445,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=holvassgamma\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=holvassgamma&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Holvassgamma",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.09027777777778,
+          62.96119444444444,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=iglbu\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=iglbu&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Iglbu",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.291194444444445,
+          62.74316666666667,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=kamtjonnkoia\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=kamtjonnkoia&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Kamtj\u00f8nnkoia",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.59166666666667,
+          63.12283333333333,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=kraaklikaaten\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=kraaklikaaten&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Kr\u00e5klik\u00e5ten",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.443388888888888,
+          63.12374999999999,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=kaasen\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=kaasen&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "K\u00e5sen",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.70875,
+          63.21027777777778,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=lynhogen\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=lynhogen&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Lynh\u00f8gen",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.95894444444444,
+          63.01650000000001,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=mortenskaaten\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=mortenskaaten&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Mortensk\u00e5ten",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.52636111111111,
+          63.1635,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=nicokoia\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=nicokoia&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Nicokoia",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.197861111111111,
+          63.01997222222222,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=rindalsloa\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=rindalsloa&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Rindalsl\u00f8a",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.02758333333333,
+          63.32852777777778,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=selbukaaten\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=selbukaaten&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Selbuk\u00e5ten",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.41852777777778,
+          63.39030555555556,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=sonvasskoia\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=sonvasskoia&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Sonvasskoia",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.72236111111111,
+          63.14200000000001,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=stabburet\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=stabburet&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Stabburet",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.11575,
+          63.14713888888889,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=stakkslettbua\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=stakkslettbua&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Stakkslettbua",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.661972222222222,
+          62.8761388888889,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=telin\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=telin&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Telin",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.60869444444444,
+          62.82191666666667,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=taagaabu\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=taagaabu&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Taagaabu",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.800861111111113,
+          62.70850000000001,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=vekvessaetra\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=vekvessaetra&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Vekvess\u00e6tra",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          11.18655555555556,
+          62.41219444444446,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=ovensenget\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=ovensenget&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "\u00d8vensenget",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          10.52138,
+          62.96657,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "description": "<br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=lyngli\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/norsk.jpg\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nKoiebeskrivelse\n</a>\n<br><br>\n<a href=\"http://org.ntnu.no/koiene/koiene/koiene.php?k=lyngli&amp;l=1\" target=\"_self\">\n<img src=\"http://org.ntnu.no/koiene/ikon/engelsk.gif\" width=\"18\" height=\"12\" border=\"0\" alt=\"\">&nbsp;\nCabin description\n</a>",
+        "name": "Lyngli",
+        "styleUrl": "#koie"
+      },
+      "type": "Feature"
+    }
+  ],
+  "name": "oversiktskart",
+  "type": "FeatureCollection"
+}
